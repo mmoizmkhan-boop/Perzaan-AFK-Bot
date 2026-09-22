@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UnitedSMPXYZ.aternos.me",
-    "port": 63560,
+    "ip": "GemStealSMPs.aternos.me",
+    "port": 23828,
     "version": "1.21.1"
   },
   "position": {
